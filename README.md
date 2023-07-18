@@ -54,9 +54,11 @@ Setting the region and zone flags for mining location
 ```shell
 make run-mine region=0 zone=0
 ```
-## Run windows miner
+## Run Windows miner
+```
 Download release <Quaiproject.zip>, create bat file and write your settings.
-Run <quaiproject.exe>
+Run <qu-project.exe>
+```
 
 ## Run via command line
 ```shell
